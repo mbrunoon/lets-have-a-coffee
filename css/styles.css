@@ -10285,7 +10285,9 @@ form .row:first-child .floating-label-form-group {
 .html-css{
   background-color: #0b74b8;
 }
-
+.ai{
+  background-color: #5f27cd;
+}
 .python{
   background-color: #ffc107;
 }
