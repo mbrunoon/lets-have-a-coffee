@@ -357,6 +357,10 @@ template {
   display: none !important;
 }
 
+.font-vt{
+  font-family: 'VT323', monospace;
+}
+
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
   margin-bottom: 0.5rem;
@@ -10280,6 +10284,10 @@ form .row:first-child .floating-label-form-group {
 
 .html-css{
   background-color: #0b74b8;
+}
+
+.python{
+  background-color: #ffc107;
 }
 
 .project-management{
