@@ -10274,8 +10274,12 @@ form .row:first-child .floating-label-form-group {
   font-family: 'VT323', monospace;
 }
 
-.rails {
+.ruby {
   background-color: red;
+}
+
+.rails {
+  background-color: #cd2727;
 }
 
 .javascript{
@@ -10285,7 +10289,7 @@ form .row:first-child .floating-label-form-group {
 .html-css{
   background-color: #0b74b8;
 }
-.ai{
+.solution-architect{
   background-color: #5f27cd;
 }
 .python{
@@ -10293,7 +10297,7 @@ form .row:first-child .floating-label-form-group {
 }
 
 .project-management{
-  background-color: #1fdd1f;
+  background-color: #27cd82;
 }
 
 .business-analysis{
